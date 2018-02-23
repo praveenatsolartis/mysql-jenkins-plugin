@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: mysql-query-executor
+Long-Name: TODO Plugin
+Plugin-Version: 0.0.1-SNAPSHOT (private-02/23/2018 08:58-sam)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: /Users/sam/Documents/workspace/mysql-query-executor/src/mai
+ n/resources,/Users/sam/Documents/workspace/mysql-query-executor/targe
+ t/classes
+Resource-Path: /Users/sam/Documents/workspace/mysql-query-executor/src
+ /main/webapp
+
